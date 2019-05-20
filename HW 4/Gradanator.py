@@ -1,5 +1,5 @@
-# This program will help the user to different weighted types of grade and
-# generate a final weighted grade. Users input the information of each exam and
+# This program will help the user to weighted different types of grade and
+# generate a final weighted course grade. Users input the information of each exam and
 # homework. The program will use this information to create a final weighted
 # grade. Then we can use the final weighted grade to determine the minimum GPA
 # that the user will get.
