@@ -1,1 +1,1 @@
-This program will help the user to different weighted types of grade and generate a final weighted grade. 
+This program will help the user to weighted different types of grade and generate a final weighted course grade. 
